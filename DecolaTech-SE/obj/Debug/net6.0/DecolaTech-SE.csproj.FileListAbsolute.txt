@@ -1,0 +1,14 @@
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\bin\Debug\net6.0\DecolaTech-SE.exe
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\bin\Debug\net6.0\DecolaTech-SE.deps.json
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\bin\Debug\net6.0\DecolaTech-SE.runtimeconfig.json
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\bin\Debug\net6.0\DecolaTech-SE.dll
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\bin\Debug\net6.0\DecolaTech-SE.pdb
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\DecolaTech-SE.GeneratedMSBuildEditorConfig.editorconfig
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\DecolaTech-SE.AssemblyInfoInputs.cache
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\DecolaTech-SE.AssemblyInfo.cs
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\DecolaTech-SE.csproj.CoreCompileInputs.cache
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\DecolaTech-SE.dll
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\refint\DecolaTech-SE.dll
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\DecolaTech-SE.pdb
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\DecolaTech-SE.genruntimeconfig.cache
+T:\Projetos\Projects\Bootcamps DIO\DecolaTech Avenade\DecolaTech-SE\obj\Debug\net6.0\ref\DecolaTech-SE.dll

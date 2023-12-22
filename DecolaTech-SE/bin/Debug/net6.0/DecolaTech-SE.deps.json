@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DecolaTech-SE/1.0.0": {
+        "runtime": {
+          "DecolaTech-SE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecolaTech-SE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
